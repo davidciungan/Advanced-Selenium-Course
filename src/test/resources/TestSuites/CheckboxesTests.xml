@@ -1,0 +1,9 @@
+<suite name="CheckboxesTestSuite" verbose="1">
+	
+	<test name="CheckboxesTests">
+		<classes>
+			<class name="com.herokuapp.theinternet.checkboxespagetests.CheckboxesTests" />
+		</classes>
+	</test>
+	
+</suite>
